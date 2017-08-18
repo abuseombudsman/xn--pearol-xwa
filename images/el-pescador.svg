@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="401.26205mm"
+   height="190.73175mm"
+   viewBox="0 0 401.26205 190.73175"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="el-pescador.svg">
+  <title
+     id="title6058">Herramienta</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5990">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5986" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop5988" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3690"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3686"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3682"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5990"
+       id="radialGradient5992"
+       cx="-1098.11"
+       cy="343.81265"
+       fx="-1098.11"
+       fy="343.81265"
+       r="756.86133"
+       gradientTransform="matrix(0.26458333,0,0,0.1254995,252.77053,-116.72842)"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6002"
+       gradientUnits="userSpaceOnUse"
+       x="-1856.3999"
+       y="-16.615677"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,252.77053,-164.5472)">
+      <meshrow
+         id="meshrow6004">
+        <meshpatch
+           id="meshpatch6006">
+          <stop
+             path="c 505.527,0  1011.05,0  1516.58,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6008" />
+          <stop
+             path="c 0,240.292  0,480.584  0,720.876"
+             style="stop-color:#ff0000;stop-opacity:1"
+             id="stop6010" />
+          <stop
+             path="c -505.527,0  -1011.05,0  -1516.58,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6012" />
+          <stop
+             path="c 0,-240.292  0,-480.584  0,-720.876"
+             style="stop-color:#ff0000;stop-opacity:1"
+             id="stop6014" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1487.0092"
+     inkscape:cy="-45.374368"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Herramienta</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(238.40197,168.94345)">
+    <path
+       style="fill:url(#radialGradient5992);fill-opacity:1;stroke:url(#meshgradient6002);stroke-width:0.75600004;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M -156.95784,16.924747 C -176.62546,9.8840759 -183.306,7.1419864 -196.64315,0.63558685 -226.37583,-13.869223 -237.92386,-27.798843 -238.02305,-49.278163 c -0.0762,-16.49391 4.56694,-31.95386 19.4673,-64.819557 l 5.91052,-13.03683 8.99761,-5.31041 c 27.62417,-16.30389 45.33178,-25.04173 62.07218,-30.6296 13.45967,-4.49277 22.50903,-5.90617 34.51264,-5.39046 14.727156,0.63271 23.453116,3.12024 54.80656,15.62386 34.80903,13.8817 42.8760097,15.74424 91.50175,21.12635 36.13213,3.99927 49.03963,6.53703 62.80382,12.34793 19.30489,8.15004 32.95425,23.159267 44.71182,49.166377 3.76554,8.32918 16.3331,44.32679 15.69739,44.96251 -0.15448,0.15448 -14.68074,-3.64479 -32.28057,-8.44281 -123.4493899,-33.65444 -181.55241,-46.89289 -228.169341,-51.98712 -12.639549,-1.38123 -35.959839,-1.19816 -43.363199,0.34041 -12.5852,2.61547 -20.96241,8.44199 -25.20207,17.52852 -1.95916,4.19896 -2.11314,5.20922 -2.07398,13.60714 0.0337,7.2211 0.45815,10.74325 2.0811,17.26769 2.55818,10.28422 8.67542,26.233931 16.94215,44.1737594 3.51962,7.6380506 6.28165,14.0050006 6.13788,14.1487706 -0.14378,0.14378 -6.21353,-1.86936 -13.48835,-4.47362 z m -29.39561,-107.48312 c 3.69218,-3.53733 2.88073,-9.699297 -1.58112,-12.006607 -4.12316,-2.13216 -10.26319,-0.81347 -12.08797,2.596137 -1.54048,2.87844 -0.93742,7.17032 1.30051,9.25554 2.71828,2.53278 3.76147,2.89783 7.26591,2.54269 1.87425,-0.18994 3.70075,-1.04464 5.10267,-2.38776 z"
+       id="path3694"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
